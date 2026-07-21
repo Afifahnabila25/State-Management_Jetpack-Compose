@@ -1,4 +1,4 @@
-# Praktikum 3: State Management - Jetpack Compose
+# State Management - Jetpack Compose
 
 **Mahasiswa:** Afifah Nabila Devi  
 **NIM:** 235150207111041  
